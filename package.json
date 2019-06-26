@@ -1,0 +1,29 @@
+{
+  "name": "@sparing-software/nuxt-service-plugin",
+  "version": "1.0.0",
+  "description": "Services integration with Nuxt.js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparingSoftware/nuxt-service-plugin.git"
+  },
+  "keywords": [
+    "nuxt",
+    "service",
+    "http",
+    "plugin"
+  ],
+  "author": "SparingSoftware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SparingSoftware/nuxt-service-plugin/issues"
+  },
+  "homepage": "https://github.com/SparingSoftware/nuxt-service-plugin#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
