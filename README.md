@@ -36,7 +36,7 @@ plugins: [
 3. Transpile plugin with webpack to autoimport services files (`nuxt.config.js`)
 ```js
 build: {
-  transpile: ['@sparing-software/nuxt-service']
+  transpile: ['@sparing-software/nuxt-service-plugin']
 }
 ```
 
