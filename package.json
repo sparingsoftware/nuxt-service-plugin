@@ -1,6 +1,6 @@
 {
   "name": "@sparing-software/nuxt-service-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Services integration with Nuxt.js",
   "main": "index.js",
   "scripts": {
